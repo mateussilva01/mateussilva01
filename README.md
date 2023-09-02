@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Mateus Silva
-- 👀 I’m interested in Javascript, Typescript, NodeJS, ReactJS, Angular 2, PostgreSQL, MongoDB, TypeORM, Design Patterns
-- 🌱 I’m currently learning TypeScript
+- 👋 Hello! Welcome to my GitHub profile.
+- My name is Mateus Silva and I am from Brazil.
+- 🔭 I'm currently working with Javascript and Angular 2
+- 👀 I’m interested in Javascript, Typescript, NodeJS, ReactJS, Angular 2, PostgreSQL, MongoDB, TypeORM, Design Patterns and Linux/Debian
+- 🌱 I’m currently learning TypeScript and ReacJS
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me https://www.linkedin.com/in/developer-computer-technician/
 
