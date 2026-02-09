@@ -2,11 +2,11 @@
   <h1>Olá, eu sou o Mateus Silva, Programador Web! 👋</h1>
   <br>
 
-  <a href="https://github.com/mateussilva01">
+  <!-- <a href="https://github.com/mateussilva01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussilva01&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussilva01&layout=compact&langs_count=7&theme=dark"/>
   </a>
-  <br><br>
+  <br><br> -->
 
   <h3>Tecnologias e Ferramentas</h3>
   <p>
